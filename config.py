@@ -9,20 +9,20 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = "27662412"
 
-    api_hash = ""
+    api_hash = "4a695060ecd737dffa9e92c540b46ed2"
 
-    bot_token = ""
+    bot_token = "7474709610:AAEwYDYeoqqzdSCYyiHryEAvZKYF3tR0b6Y"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [6847319298,6324457826]
 
     session = "rv_web_dl_bot"
 
-    bot_creater = "Rv"  # Don't Remove if you Respect the DEV
+    bot_creater = "ᴀʟᴏɴᴇ"  # Don't Remove if you Respect the ᴀʟᴏɴᴇ
 
-    bot_creater_id = "@rv2006rv"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@mrboy638"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
@@ -87,8 +87,8 @@ class FILENAME_CONFIG:
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '1984763765': 'Conan76',
-        '6360672597' : 'RV'
+        '6847319298': '@mrboy638',
+        '6324457826' : 'Mrkillersss'
     }
 
 
