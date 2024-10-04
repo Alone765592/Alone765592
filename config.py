@@ -18,7 +18,7 @@ class TG_CONFIG:
     #DEVS or #OWNERS
     sudo_users = [6847319298,6324457826]
 
-    session = "rv_web_dl_bot"
+    session = "Alone"
 
     bot_creater = "ᴀʟᴏɴᴇ"  # Don't Remove if you Respect the ᴀʟᴏɴᴇ
 
@@ -87,7 +87,7 @@ class FILENAME_CONFIG:
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '6847319298': '@mrboy638',
+        '6847319298': 'mrboy638',
         '6324457826' : 'Mrkillersss'
     }
 
